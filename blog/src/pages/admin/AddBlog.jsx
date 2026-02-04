@@ -101,7 +101,7 @@ const AddBlog = () => {
                         </div>
 
                     </div>)}
-                    <button disabled={loading} type='button' onClick={generateContent} className='absolute bottom-1 right-2 ml-2 text-xs text-white bg-black/70 px-4 py-1.5 rounded hover:underline cursor-pointer'>Generate with AI</button>
+                    {/* <button disabled={loading} type='button' onClick={generateContent} className='absolute bottom-1 right-2 ml-2 text-xs text-white bg-black/70 px-4 py-1.5 rounded hover:underline cursor-pointer'>Generate with AI</button> */}
                 </div>
 
                 <p className='mt-4'>Blog Category</p>
