@@ -10,13 +10,13 @@ Frontend: https://soccer-blog-nine.vercel.app
 
 ## 📸 Screenshots
 
-### Home Page
+### Landing Page – Article Feed & Navigation UI
 ![Home](./screenshots/home.png)
 
-### Dashboard
+### Admin Dashboard – Article Review & Approval System
 ![Dashboard](./screenshots/dashboard.png)
 
-### AI Article Generation
+### AI Article Generation – OpenAI Prompt Workflow
 ![AI Generation](./screenshots/ai-generation.png)
 
 ## Overview
