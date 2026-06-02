@@ -8,6 +8,17 @@ The platform uses OpenAI to generate football-related content, allowing administ
 
 Frontend: https://soccer-blog-nine.vercel.app
 
+## 📸 Screenshots
+
+### Home Page
+![Home](./screenshots/home.png)
+
+### Dashboard
+![Dashboard](./screenshots/dashboard.png)
+
+### AI Article Generation
+![AI Generation](./screenshots/ai-generation.png)
+
 ## Overview
 
 Traditional content platforms require writers to manually create articles before publication.
