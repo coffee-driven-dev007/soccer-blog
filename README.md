@@ -6,7 +6,7 @@ The platform uses OpenAI to generate football-related content, allowing administ
 
 ## Live Demo
 
-Frontend: https://soccer-blog-server.vercel.app
+Frontend: https://soccer-blog-nine.vercel.app
 
 ## Overview
 
